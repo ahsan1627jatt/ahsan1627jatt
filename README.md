@@ -9,16 +9,16 @@
 ---
 
 ## 💫 About Me
-* 🔭 **Currently Building:** Multi-container Dockerized environments and automated CI/CD pipelines.
-* 🚀 **Hands-on Milestone:** Automated a CI/CD pipeline using **GitHub Actions (`.yml`)** to deploy and host a static website on **AWS S3**.
-* 🛠️ **Configuration & Orchestration:** Mastered the basics of **Kubernetes** and automated configuration management using **Ansible**.
-* 🌱 **Learning & Exploring:** Deep diving into **AWS services**, advanced **GitHub Actions**, and production-ready Kubernetes setups.
-* 🔥 **Next Big Goal:** Having built a solid grasp of containerization and automation, I have a strong urge and focus to master **Jenkins** CI/CD next!
-* 🤝 **Looking to Collaborate:** On open-source DevOps, cloud automation, and infrastructure-as-code projects.
-* 💬 **Ask Me About:** Linux basics, Docker setup, Git workflow, writing basic `.yml` pipelines, and automated static site hosting.
-* ⚡ **Fun Fact:** I love breaking things locally in Docker containers just to figure out how to fix them!
-
----
+* 🔭 **Currently Building:** Cloud-native deployments using **Docker** & **Kubernetes**, alongside automated CI/CD workflows[cite: 1].
+* 🚀 **Hands-on Milestones:** 
+  * Automated end-to-end CI/CD pipelines via **GitHub Actions** to host static architecture on **AWS S3**[cite: 1].
+  * Orchestrated multi-tier containerized environments using **Docker Compose** & **Kubernetes Manifests** (Deployments, Services, Namespaces)[cite: 1].
+* 🛠️ **Core Expertise:** Linux Administration, Docker Containerization, Kubernetes Orchestration, Git Workflows, and AWS Fundamentals (EC2, S3, IAM, VPC)[cite: 1].
+* 🌱 **Learning & Exploring:** Production-grade Kubernetes setups, Advanced AWS Cloud Architectures, and Infrastructure as Code (IaC)[cite: 1].
+* 🔥 **Next Big Goal:** Expanding CI/CD mastery with **Jenkins** and deep-diving into enterprise-level cloud automation.
+* 🤝 **Looking to Collaborate:** On open-source DevOps tools, cloud deployment pipelines, and Linux/container automation.
+* 💬 **Ask Me About:** Dockerfile optimization, Kubernetes manifests, GitHub Actions `.yml` pipelines, Linux system administration, and networking basics[cite: 1].
+* ⚡ **Fun Fact:** I deliberately break local Docker setups and K8s pods just to master the art of troubleshooting!
 
 ## 🌐 Connect With Me
 <p align="left">
