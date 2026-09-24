@@ -35,7 +35,7 @@
 
 I'm a **Computer Science graduate** focused on **DevOps, Cloud Infrastructure, Linux, and Networking**, with hands-on experience building containerized applications, cloud infrastructure, and automated deployment workflows.
 
-- ☁️ Working with **AWS EC2, S3 & IAM**
+- ☁️ Working with **AWS EC2, S3, IAM & VPC**
 - 🐳 Building containerized environments with **Docker & Docker Compose**
 - ☸️ Deploying and orchestrating workloads using **Kubernetes**
 - ♾️ Automating deployments through **GitHub Actions**
